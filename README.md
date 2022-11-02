@@ -4,3 +4,4 @@ This project looks to address the problem of fake job postings and tries to pred
 ## Included in file
 * Jupyter Notebook built in Google Colab
 * Powerpoint slide show of results
+* Final report (PDF)
